@@ -54,10 +54,10 @@ def get_unigrams():
         print('Completed. Results in output file.')
 
 def get_bigrams():
-    # TODO
+    pass
 
 def sort_words():
-    # TODO
+    pass
 
 if __name__ == '__main__':
     calculate_size()
