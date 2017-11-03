@@ -39,3 +39,6 @@ def normalize():
 
 if __name__ == '__main__':
     normalize()
+
+
+#2016-05-17 01:41:21 +0200	732355286355333121	@r1960b	Roman B	I have no problem with this, Anderson did not deserve to hang around for a win
